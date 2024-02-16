@@ -1,1 +1,1 @@
-# allegro-vcu2-ctrl-sw
+# allegro-vcu2-firmware
